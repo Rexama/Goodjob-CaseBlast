@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 512584d9df1a4ab8b31ffaad15b10f40, type: 3}
+  m_Name: BlockIcons
+  m_EditorClassIdentifier: 
+  blueDefault: {fileID: 21300000, guid: 57f21d8c47a140940af0e18c777605cf, type: 3}
+  blueA: {fileID: 21300000, guid: 80117f86ff4536644afe0f8595c72ec3, type: 3}
+  blueB: {fileID: 21300000, guid: 597149fcf3d9aef41bfa8fbdcf39e338, type: 3}
+  blueC: {fileID: 21300000, guid: 5002fb191989dfa4baa0ab03bc5a0516, type: 3}
+  greenDefault: {fileID: 21300000, guid: e92f268774d3cfd41a5f8bc299653509, type: 3}
+  greenA: {fileID: 21300000, guid: bd3006f66943ddb41bf835cf2ff75365, type: 3}
+  greenB: {fileID: 21300000, guid: 438c8b413fbbf6740b81d49fa62e58d4, type: 3}
+  greenC: {fileID: 21300000, guid: 395b29b1aacdae247ae77649dcb5b773, type: 3}
+  pinkDefault: {fileID: 21300000, guid: 88a24a2caf9bb714e884aec8e6e6c8b0, type: 3}
+  pinkA: {fileID: 21300000, guid: 6b31f9a6c68113a48a6cacd19a17c466, type: 3}
+  pinkB: {fileID: 21300000, guid: d79b245a62582394d97e09d8b1a87649, type: 3}
+  pinkC: {fileID: 21300000, guid: bb2545b8d1063d34d870191aeaf3c298, type: 3}
+  purpleDefault: {fileID: 21300000, guid: 96196c46d8ca7fc4a9cda93ba18afecc, type: 3}
+  purpleA: {fileID: 21300000, guid: 37d77d58a223ca24e9dac597bfd29b8c, type: 3}
+  purpleB: {fileID: 21300000, guid: 81272d6642690464c87f4ea2a9e984bd, type: 3}
+  purpleC: {fileID: 21300000, guid: b1a7d32fefa096343a80603dd1d92ff9, type: 3}
+  redDefault: {fileID: 21300000, guid: 1092d5504c2a7fb43b69c87b125a0263, type: 3}
+  redA: {fileID: 21300000, guid: 861e327e8e1bea54795589e2f9ca9112, type: 3}
+  redB: {fileID: 21300000, guid: 52578a6699431bb40932444fa7be47b5, type: 3}
+  redC: {fileID: 21300000, guid: 46011d2e146ff354ca392b66f28b1313, type: 3}
+  yellowDefault: {fileID: 21300000, guid: bb91c63cec748b643856c28b2d00b675, type: 3}
+  yellowA: {fileID: 21300000, guid: 8ad18e9642846ae45acef83051522a3d, type: 3}
+  yellowB: {fileID: 21300000, guid: fb57ed6824fd5fe47aa1e75f25d660d0, type: 3}
+  yellowC: {fileID: 21300000, guid: ff2642ca3d85b3047bdc6290b90c583d, type: 3}
